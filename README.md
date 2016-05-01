@@ -15,7 +15,7 @@ and speedo controls. In order to log features, select the desired feature type f
 If logging a point, click start logging and remain in a stationary position, the position is recorded on clicking finish logging and will be the average
 position between clicking start and finish. once finish is clicked, the user is free to log another stationary point or change feature type.
 If logging a polygon or polyline, the user uses start and finish logging to log stationary points at the verticies of the desired feature. This works
-in an identical manor to point logging as described above. The difference with mulipoint features is the user will use finish feature in order to 
+in an identical manner to point logging as described above. The difference with mulipoint features is the user will use finish feature in order to 
 complete the feature.
 
 Exporting data is possible using the Export data button. This will require the user to specify an output directory to which three seperate GeoJSON files 
