@@ -207,6 +207,7 @@ namespace GNSS_Surveyor
             // 
             // compass1
             // 
+            this.compass1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.compass1.Location = new System.Drawing.Point(774, 30);
             this.compass1.Name = "compass1";
             this.compass1.Size = new System.Drawing.Size(150, 150);
@@ -226,7 +227,7 @@ namespace GNSS_Surveyor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.BackColor = System.Drawing.Color.DarkGray;
             this.ClientSize = new System.Drawing.Size(936, 449);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.altvalue);
